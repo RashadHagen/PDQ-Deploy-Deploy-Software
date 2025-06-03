@@ -5,7 +5,7 @@
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to create a share folder using server manager using Server Manager. A share folder allows users on the network to access a specific folder and its contents as if they were directly on the server. This creates a central location for sharing files and folders, facilitating collaboration and reducing the need for manual file transfers between users.
+This project goes over how to deploy software using PDQ Deploy.  PDQ Deploy is a software deployment tool that automates the process of installing, uninstalling, repairing, or upgrading software on multiple Windows devices across a network. It simplifies software management by offering pre-built packages for common applications, allows for custom package creation, and enables scheduling and automation of deployment tasks.
 </b>
 
 
@@ -15,7 +15,7 @@ This project goes over how to create a share folder using server manager using S
   
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
- - <b>Server Manager</b>
+ - <b>PDQ Deploy</b>
 
 
 
@@ -24,7 +24,7 @@ This project goes over how to create a share folder using server manager using S
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
-- <b>Windows 10 RSAT & Windows Server 2016</b>
+- <b>Windows Server 2016</b>
 
 
 
